@@ -45,17 +45,6 @@ class Player {
 }
 //Creates the player's appearance as a circle, sets color, size, position and updates position
 
-
-/* class playerFire {
-    constructor({position, velocity}) {
-      this.position = position
-      this.velocity = velocity
-      this.radius = 8
-    }
-  }
-*/
-//WIP code for player controlled projectile fire
-
 const boundaries = []
 
 const player = new Player({
